@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OskarZan
-- 👀 I’m interested in 
+- 👀 I’m interested in live the life
 - 🌱 I’m currently learning in JavaScript, Java, Python, MySQL WorkBench
 - 💞️ I’m looking to collaborate on Google <3
 - 📫 How to reach me Goku, Vegetta77 and Steve Jobs 
